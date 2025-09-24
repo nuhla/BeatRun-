@@ -23,4 +23,4 @@ In short: **the entire gameplay is generated from your music clip — the beat c
    <img src="IMG/5.png" width="300">
 </p>
 
-[![Watch the video](https://img.youtube.com/vi/<VIDEO-ID>/0.jpg)](https://youtu.be/-FbXdE3boGo)
+[![Watch the video](IMG/Capture.JPG)](https://youtu.be/-FbXdE3boGo)
