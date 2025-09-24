@@ -19,6 +19,7 @@ In short: **the entire gameplay is generated from your music clip — the beat c
   <img src="IMG/2.png" width="300">
    <img src="IMG/5.png" width="300">
    <img src="IMG/3.png" width="300">
+   <img src="IMG/3.png" width="300">
    <img src="IMG/4.png" width="300">
 </p>
 
