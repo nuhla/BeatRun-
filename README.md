@@ -11,7 +11,7 @@ The runner transforms your music into the game itself — every beat shapes the 
 
 In short: **the entire gameplay is generated from your music clip — the beat controls the stage.**
 
-## ![Link to Try : ](https://nahla-almassri.itch.io/beat-run)
+## ![Link to Try  ](https://nahla-almassri.itch.io/beat-run)
 
 
 ## 📖 Photos Album 
@@ -22,3 +22,5 @@ In short: **the entire gameplay is generated from your music clip — the beat c
   <img src="IMG/4.png" width="300">
    <img src="IMG/5.png" width="300">
 </p>
+
+[![Watch the video](https://img.youtube.com/vi/<VIDEO-ID>/0.jpg)](https://youtu.be/-FbXdE3boGo)
